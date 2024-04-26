@@ -1,0 +1,6 @@
+@import url("./fonts/font.css");
+
+body{
+  background: rgba(205,251,255,1) ;
+  overflow-x: hidden;
+}
